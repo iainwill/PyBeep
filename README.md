@@ -1,4 +1,4 @@
 PyBeep
 ======
 
-Python-based tone generator
+DELETED: Name already taken
